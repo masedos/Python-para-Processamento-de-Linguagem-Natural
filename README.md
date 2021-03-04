@@ -1,4 +1,4 @@
-# Python para Processamento de Linguagem-Natural
+# Python para Processamento de Linguagem Natural
 
 Este é um Curso de Extensão - Python para Processamento de Linguagem-Natural - 1a edição, do Instituto de Ciências Matemáticas e de Computação da USP.
 
