@@ -12,7 +12,7 @@ Curso de Extensão: [Python para Processamento de Linguagem-Natural](https://usp
 ## Tópicos do curso:
   1. Conceitos básicos de Processamento de Linguagem Natural: recursos ferramentas e aplicações, níveis de processamento linguístico, córpus e aprendizado a partir de dados;
   2. Noções básicas da linguagem de programação Python, suas principais estruturas de dados e prática de programação;
-  3. O pacote NLTK e prática de uso de suas funcionalidades;
+  3. O pacote [NLTK](https://www.nltk.org/book/) e prática de uso de suas funcionalidades;
   4. O pacote spaCy e prática com modelos de linguagem para aplicações em Processamento de Linguagem Natural.
 
 ## Referências principais:
