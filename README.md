@@ -17,7 +17,7 @@ Curso de Extensão: [Python para Processamento de Linguagem-Natural](https://usp
 
 ## Referências principais:
   - Jurafsky, D. and Martin, J.H. (2008). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. 2a edição. Prentice Hall. Material parcialmente disponível no site de um dos autores em https://web.stanford.edu/~jurafsky/slp3/
-  - VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly Media Inc. Disponível em https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf
+  - VanderPlas, J. (2016). A Whirlwind Tour of Python. O’Reilly Media Inc. Disponível em https://s3-us-west-2.amazonaws.com/python-notes/a-whirlwind-tour-of-python-2.pdf
 
 
 Ministrantes:	Roney Lira de Sales Santos
