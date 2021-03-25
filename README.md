@@ -21,3 +21,7 @@ Curso de Extensão: [Python para Processamento de Linguagem-Natural](https://usp
 
 
 Ministrantes:	Roney Lira de Sales Santos
+
+## Nota do teste final
+
+[![](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural/blob/master/result.png)](https://www.linkedin.com/in/masedos/)
