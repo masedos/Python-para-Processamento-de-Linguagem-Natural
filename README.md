@@ -2,7 +2,7 @@
 
 Este é um Curso de Extensão - Python para Processamento de Linguagem-Natural - 1a edição, do Instituto de Ciências Matemáticas e de Computação da USP.
 
-`Certificado:` [Acesse aqui]()
+`Certificado:` [Acesse aqui](https://github.com/masedos/Python-para-Processamento-de-Linguagem-Natural/blob/main/certificadoDigital.pdf)
 </br></br>
 `Carga Horária:` 16 horas
 </br></br>
